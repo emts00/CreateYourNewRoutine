@@ -1,0 +1,81 @@
+
+body {
+    background-color: #fff2b2;
+    text-align:center;
+    padding: 10px 24px;
+    font-family: "Lora", serif;
+    font-size: larger;
+    font-optical-sizing: auto;
+    font-style: normal;
+    width: 90%;
+  }
+  
+  section#habits {
+    padding: 30px 30px;
+    width: 100%;
+    justify-content: center;
+    background-color:#fffceb;
+
+  }
+
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  .button {
+    font-family: "Lora", serif;
+    border-radius: 8px;
+    border-color:#95d387;
+    background-color: #95d387;
+    padding: 5px 10px; 
+    font-size: medium;
+  }
+  
+  .button:hover {
+    font-family: "Lora", serif;
+    border-radius: 8px;
+    transition-duration: 0.3s;
+    opacity: 0.5;
+    
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
